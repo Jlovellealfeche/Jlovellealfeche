@@ -1,13 +1,7 @@
-<h1 align="center">Hi there, I'm Lovelle!👋 </h1>
-<p align="center">I'm studying Meta Front-End Development at Coursera.</p>
-<h2 align="center">MY AIM</h2>
-<p align="center"> Is to create a not only aesthetically pleasing websites but one that is easy to maintain, accessible, innovative and sustainable.</p>
-
-<h2 align="center">GOAL</h2>
-<br>
-<p align="center">✨ Become a Front End Web Developer 👩‍💻</p>
-
-
+<h1 align="center">👋 </h1>
+<div align="center">
+  <img src="header-banner.gif"
+</div>
 
 -<h3 align="center">🌱 I’m currently...</h3>
 <div align="center">
@@ -15,13 +9,16 @@
 
 ⭕Doing some project challenges at Frontend Mentor <br>
   to apply and practice what i have learned
+  
+⭕Working to improve my skills in Javascript and React
 </div>
+
 <div align="center">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jlovellealfeche&show_icons=true&theme=radical"/>
 <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlovellealfeche&layout=compact"/>
 </div>
 
-<h2>My Skills</h2>
+<h2>Tools of Trade</h2>
 <div align="center">
 <details open>
 <summary><b> Frontend</b></summary>
