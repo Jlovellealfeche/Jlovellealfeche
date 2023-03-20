@@ -18,7 +18,7 @@
 <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlovellealfeche&layout=compact"/>
 </div>
 
-<h2>Tools of Trade</h2>
+<h2>💻Tools of Trade💻</h2>
 <div align="center">
 <details open>
 <summary><b> Frontend</b></summary>
