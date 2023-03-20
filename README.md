@@ -5,7 +5,7 @@
 
 -<h3 align="center">🌱 I’m currently...</h3>
 <div align="center">
-⭕Learning React 
+⭕Learning React <br>
 
 ⭕Doing some project challenges at Frontend Mentor <br>
   to apply and practice what i have learned
