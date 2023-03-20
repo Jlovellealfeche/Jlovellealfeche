@@ -20,17 +20,25 @@
 <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlovellealfeche&layout=compact"/>
 </div>
 
-<h2>💻Tools of Trade💻</h2>
+<h2>💻Languages and Tools💻</h2>
 <div align="center">
 <details open>
 <summary><b> Frontend</b></summary>
 <br>
+<img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="HTML5 icon"/>
+<img src="https://img.icons8.com/color/48/null/css3.png" alt="css3 icon"/>
+<img src="https://img.icons8.com/color/48/null/sass.png" alt="Sass icon"/>
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="Javascript Icon"/>
+<img src="https://img.icons8.com/color/48/null/react-native.png" alt="react icon"/>
+ 
+ <br>
+ <img src="https://img.icons8.com/color/48/null/nodejs.png" alt="nodejs icon"/>
+ <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="figma icon"/>
+  <img src="https://img.icons8.com/color/48/null/git.png" alt="git icon"/>
   
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
+  
+
+  
 
 </details>
 </div>
