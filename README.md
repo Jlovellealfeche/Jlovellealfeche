@@ -3,7 +3,7 @@
   <img src="header.gif"
 </div>
 
--<h3 align="center">🌱 I’m currently...</h3>
+<h3 align="center"><img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/48/null/external-digital-learning-elearning-smashingstocks-flat-smashing-stocks-9.png" alt="girl learning digitally icon"/> <br>I’m currently...</h3>
 <div align="center">
   
 ⭕Learning React 
