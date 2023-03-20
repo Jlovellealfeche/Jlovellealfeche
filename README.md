@@ -1,6 +1,6 @@
 <h1 align="center">👋 </h1>
 <div align="center">
-  <img src="header-banner.gif"
+  <img src="header.gif"
 </div>
 
 -<h3 align="center">🌱 I’m currently...</h3>
