@@ -1,11 +1,11 @@
-<h1 align="center">Hello! I'm Lovelle </h1>
-<p align="center">I'm learning Meta Front-End Development at Coursera.</p>
+<h1 align="center">Hi there, I'm Lovelle!👋 </h1>
+<p align="center">I'm studying Meta Front-End Development at Coursera.</p>
 <h2 align="center">MY AIM</h2>
 <p align="center"> Is to create a not only aesthetically pleasing websites but one that is easy to maintain, accessible, innovative and sustainable.</p>
 
 <h2 align="center">GOAL</h2>
 <br>
-<p align="center">✨ Become a Front End Web Developer</p>
+<p align="center">✨ Become a Front End Web Developer 👩‍💻</p>
 
 
 
@@ -18,7 +18,7 @@
 </div>
 <div align="center">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jlovellealfeche&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlovellealfeche&layout=compact"/>
+<img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlovellealfeche&layout=compact"/>
 </div>
 
 
