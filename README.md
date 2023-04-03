@@ -32,8 +32,7 @@
 <img src="https://img.icons8.com/color/48/null/react-native.png" alt="react icon"/>
  
  <br>
- <img src="https://img.icons8.com/color/48/null/nodejs.png" alt="nodejs icon"/>
- <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="figma icon"/>
+  <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="figma icon"/>
   <img src="https://img.icons8.com/color/48/null/git.png" alt="git icon"/>
   
   
